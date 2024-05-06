@@ -1,0 +1,123 @@
+
+
+/*Fonts*/
+.pt-serif-regular {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .pt-serif-bold {
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .pt-serif-regular-italic {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .pt-serif-bold-italic {
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+
+/*Navigation*/
+
+
+
+nav.navmenu{
+    display: flex;
+    justify-content: center;
+}
+nav.navmenu ul{
+    list-style-type:none ;
+}
+nav.navmenu ul li{
+    display: inline;
+}
+
+nav.navmenu a{
+    color:black;
+    text-decoration: none;
+    background-color: #ff4847;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+nav.navmenu a:hover{
+    color:black;
+    text-decoration: underline;
+    background-color: #feff47;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+/*Header*/
+header h1{
+    display: flex;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+header {
+    background-color: #ffa447;
+}
+
+/*footer*/
+footer{
+    background-color: #ffa447;
+}
+footer p{
+font-family: "PT Serif", serif;
+}
+footer a{
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+/*Aside*/
+
+
+aside{
+    background-color: #47a2ff;
+}
+
+
+
+
+
+section h1#SU, p#pS{
+  display: inline;
+  
+}
+
+h2#Hg{
+    font-size: 45px;
+}
+ol#Goal{
+    font-size: 25px;
+}
+h2#skills{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+img{
+height: 100px;
+border: solid black;
+}
+
+
+
+
+
